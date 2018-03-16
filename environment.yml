@@ -1,5 +1,6 @@
 channels:
 - conda-forge
+- damianavila82
 dependencies:
 - jupyterlab=0.31.8
 - nodejs=8.9
